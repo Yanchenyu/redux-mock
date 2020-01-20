@@ -1,0 +1,19 @@
+{
+  "name": "redux-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yanchenyu/redux-mock.git"
+  },
+  "author": "yanchenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yanchenyu/redux-mock/issues"
+  },
+  "homepage": "https://github.com/Yanchenyu/redux-mock#readme"
+}
